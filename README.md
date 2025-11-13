@@ -59,14 +59,7 @@ _Conversational AI for medical Q&A using NLP and semantic search_
 
 ## 💼 Positions of Responsibility
 - **Core Team Member**, Annual Athletic Meet 2025  
-- **Team Leader**, Avishkar 2024 (Reached finals)  
-
----
-
-## 🏆 Achievements
-- Selected for **Amazon ML School 2025**  
-- Solved **350+ DSA problems** across LC, GFG, CodeStudio  
-- **1550+ rated** in LeetCode weekly & biweekly contests  
+- **Team Leader**, Avishkar 2024 (Reached finals)   
 
 ---
 
